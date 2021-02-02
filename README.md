@@ -20,6 +20,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/-MySQL-%23434343?style=for-the-badge&logo=mysql" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Redis-%23282C34?style=for-the-badge&logo=redis" />
+</a>
 
 ## My Github
 <a href="https://github.com/anuraghazra/github-readme-stats">
