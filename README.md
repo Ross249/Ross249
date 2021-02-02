@@ -42,4 +42,4 @@
 </a>
 
 ## Contact
-Email：528266131@qq.com\n
+Email：528266131@qq.com
