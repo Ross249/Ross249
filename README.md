@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-Redis-%23434343?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/-MySQL-%23434343?style=for-the-badge&logo=mysql" />
 </a>
 
 ## My Github
