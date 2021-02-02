@@ -1,7 +1,7 @@
 <h2>My Technology stack</h2>
 <a href="#">
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code" />
-</a
+</a>
 
 <h2>My Github</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
