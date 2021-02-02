@@ -42,5 +42,4 @@
 </a>
 
 ## Contact
-Email：528266131@qq.com
-Twitter：@Ross77857018
+Email：528266131@qq.com\n
