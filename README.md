@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-Java-%23F05032?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/-Java-%23F05032?style=for-the-badge&logo=java&logoColor=ffffff" />
 </a>
 
 ## My Github
