@@ -5,5 +5,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ross249&layout=compact&gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ross249&layout=compact&theme=gotham" />
 </a>
