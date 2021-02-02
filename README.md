@@ -2,6 +2,15 @@
 <a href="#">
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Java-%23007ACC?style=for-the-badge&logo=java" />
+</a>
 
 ## My Github
 <a href="https://github.com/anuraghazra/github-readme-stats">
