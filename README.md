@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react" />
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/-Flutter-%232081e8?style=for-the-badge&logo=flutter&logoColor=fff" />
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/-Java-%23F05032?style=for-the-badge&logo=java&logoColor=ffffff" />
 </a>
 <a href="#">
