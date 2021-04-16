@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react" />
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/-Java-%23F05032?style=for-the-badge&logo=java&logoColor=ffffff" />
 </a>
 <a href="#">
