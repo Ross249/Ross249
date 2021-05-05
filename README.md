@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Spring-%232c3e50?style=for-the-badge&logo=spring&logoColor=%#20c547" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-PostgreSQL-%23CCC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23CCC?style=for-the-badge&logo=postgresql&logoColor=fff" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/-MySQL-%23142027?style=for-the-badge&logo=mysql" />
