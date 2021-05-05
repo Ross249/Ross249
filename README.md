@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Spring-%232c3e50?style=for-the-badge&logo=spring&logoColor=%#20c547" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-PostgreSQL-%23CCC?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23CCC?style=for-the-badge&logo=postgresql&logoColor=#008B8B" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/-MySQL-%23142027?style=for-the-badge&logo=mysql" />
