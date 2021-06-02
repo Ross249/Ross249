@@ -42,12 +42,15 @@
   <img src="https://img.shields.io/badge/-Vim-%23031d30?style=for-the-badge&logo=vim" />
 </a>
 
-## My Github
+## Abstract
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=gotham" />
+</a>
+<a href="#">
+  <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
 </a>
 
 ## Contact
