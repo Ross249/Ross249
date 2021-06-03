@@ -52,6 +52,9 @@
 <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
 </a>
+<a href="#">
+  <img align="center" src="https://stats.justsong.cn/api/juejin?id=4125023360530574" />
+</a>
 
 ## Contact
 :email: Email：R528266131@163.com
