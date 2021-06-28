@@ -1,4 +1,4 @@
-## My Technology stack
+<!-- ## My Technology stack
 <a href="#">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" />
 </a>
@@ -41,7 +41,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/-Vim-%23031d30?style=for-the-badge&logo=vim" />
 </a>
-
+ -->
 ## Abstract
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
