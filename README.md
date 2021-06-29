@@ -46,7 +46,7 @@
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
 
-- :computer: Web devloper
+- :computer: Web developer
 - :cn: Based in China
 - :cool: Love cooperating with others on open source projects
 - :video_game: Enjoy video games 
