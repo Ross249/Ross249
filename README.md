@@ -43,7 +43,7 @@
 </a>
  -->
 ## Hi there :wave:
-Welcome to my GitHub profile,which is my open source projects' abstract.<br>
+<p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
 - :computer: Web devloper
 - :cn: Based in China
