@@ -45,7 +45,6 @@
 ## Hi there :wave:
 Welcome to my GitHub profile,which is my open source projects' abstract.<br>
 I am:
-
 - :computer: Web devloper
 - :cn: Based in China
 - :cool: Love cooperating with others on open source projects
