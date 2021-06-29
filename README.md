@@ -60,7 +60,7 @@ Welcome to my GitHub profile,which is my open source projects' abstract.
 if you have projects that need contributor,please contact me. :email: Email: R528266131@163.com</font>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
 </a>
 
 <!-- <a href="#">
