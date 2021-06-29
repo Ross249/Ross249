@@ -42,19 +42,29 @@
   <img src="https://img.shields.io/badge/-Vim-%23031d30?style=for-the-badge&logo=vim" />
 </a>
  -->
-## Abstract
+## <font face="'Roboto Mono', monospace">Hi there :wave:</font>
+<p><font face="'Roboto Mono', monospace">
+Welcome to my GitHub profile,which is my open source projects' abstract.
+</font></p>
+<font face="'Roboto Mono', monospace">I am:
+
+- :computer: Web devloper
+- :cn: Based in China
+- :cool: Love cooperating with others on open source projects
+- :video_game: Enjoy video games 
+- :dog: Want to have a dog
+
+if you have projects that need contributor,please contact me. :email: Email: R528266131@163.com</font>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
 </a>
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
 </a>
 <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/juejin?id=4125023360530574" />
-</a>
-
-## Contact
-:email: Email：R528266131@163.com
+</a> -->
