@@ -52,7 +52,8 @@ I am:
 - :video_game: Enjoy video games 
 - :dog: Want to have a dog
 
-if you have projects that need contributor,please contact me. :email: Email: R528266131@163.com
+if you have projects that need contributor,please contact me. 
+:email: Email: R528266131@163.com
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
