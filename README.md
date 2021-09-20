@@ -48,9 +48,9 @@ I am:
 
 - :computer: Web developer
 - :cn: Based in China
-- :cool: Love cooperating with others on open source projects
-- :video_game: Enjoy video games 
-- :dog: Want to have a dog
+- :cool: Good at cooperating with others on open source projects
+- :video_game: Enjoying video games 
+- :dog: Going to have a dog
 
 if you have projects that need contributor,please contact me. 
 
