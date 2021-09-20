@@ -46,13 +46,13 @@
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
 
-- :computer: Web developer
-- :cn: Based in China
+- :computer: A web developer
+- :cn: Located in China
 - :cool: Good at cooperating with others on open source projects
-- :video_game: Enjoying video games 
+- :video_game: Fascinated by video games 
 - :dog: Going to have a dog
 
-if you have projects that need contributor,please contact me. 
+if you have projects that need a contributor,please contact me. 
 
 :email: Email: R528266131@163.com
 
