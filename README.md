@@ -48,7 +48,7 @@ I am:
 
 - :computer: A web developer
 - :cn: Located in China
-- :cool: Good at cooperating with others on open source projects
+- :octocat: Good at cooperating with others on open source projects
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
 
