@@ -42,6 +42,11 @@
   <img src="https://img.shields.io/badge/-Vim-%23031d30?style=for-the-badge&logo=vim" />
 </a>
  -->
+ 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ross249/count.svg" />
+</p>
 ## Hi there :wave:
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
