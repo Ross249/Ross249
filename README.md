@@ -43,10 +43,10 @@
 </a>
  -->
  
- <p align="center"> 
+<!--  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ross249/count.svg" />
-</p>
+</p> -->
 
 ## Hi there :wave:
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
