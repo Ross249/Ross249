@@ -52,14 +52,12 @@
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
 
-- :computer: A web developer
+- :octocat: A fullstack developer
 - :cn: Located in China
-- :octocat: Good at cooperating with others on open source projects
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
 
-if you have projects that need a contributor,please contact me. 
-<!-- 
+<!-- if you have projects that need a contributor,please contact me. 
 :email: Email: R528266131@163.com -->
 
 <a href="https://github.com/anuraghazra/convoychat">
