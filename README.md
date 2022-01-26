@@ -43,10 +43,13 @@
 </a>
  -->
  
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ross249/count.svg" />
-</p>
+ <div align="center"> 
+<!--   Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ross249/count.svg" /> -->
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ross249.visitor-badge&left_color=SlateGray&right_color=green&left_text=HelloVisitors)
+  
+</div>
 
 ## Hi there :wave:
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
@@ -72,4 +75,5 @@ I am:
 <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/juejin?id=4125023360530574" />
 </a> -->
-![Snake animation](https://github.com/Ross249/Ross249/blob/output/github-contribution-grid-snake.gif)
+
+![Snake animation](https://github.com/Ross249/Ross249/blob/output/github-contribution-grid-snake.svg)
