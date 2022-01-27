@@ -63,12 +63,14 @@ I am:
 <!-- if you have projects that need a contributor,please contact me. 
 :email: Email: R528266131@163.com -->
 
-<a href="https://github.com/anuraghazra/convoychat" align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/convoychat" align="left" style="width:50%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="right" style="width:50%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
+  </a>
+ </div>
 <!-- <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
 </a>
