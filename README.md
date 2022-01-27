@@ -64,12 +64,16 @@ I am:
 :email: Email: R528266131@163.com -->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/convoychat" align="left" style="width:50%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="right" style="width:50%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
-  </a>
+  <div style="width:50%">
+    <a href="https://github.com/anuraghazra/convoychat" align="left" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
+    </a>
+  </div>
+  <div style="width:50%">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
+    </a>
+  </div>
  </div>
 <!-- <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
