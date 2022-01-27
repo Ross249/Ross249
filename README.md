@@ -64,13 +64,13 @@ I am:
 :email: Email: R528266131@163.com -->
 
 <div align="center">
-  <div style="width:50%">
+  <div style="width:50%" align="left">
     <a href="https://github.com/anuraghazra/convoychat" >
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
     </a>
   </div>
-  <div style="width:50%">
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+  <div style="width:50%" align="right">
+    <a href="https://github.com/anuraghazra/github-readme-stats" >
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
     </a>
   </div>
