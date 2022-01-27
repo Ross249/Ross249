@@ -70,7 +70,7 @@ I am:
     </a>
   </div>
   <div style="width:50%">
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
     </a>
   </div>
