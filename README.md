@@ -15,6 +15,7 @@ I am:
 - :cn: Located in China
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
+- :art: discovering something useful, empowering and beautiful
 <div style="display: inline-block;width: 100%;">
 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
