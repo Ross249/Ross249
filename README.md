@@ -11,8 +11,7 @@
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
 
-- :octocat: A fullstack developer
-- :cn: Located in China
+- :octocat: A web developer
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
 - :art: discovering something useful, empowering and beautiful
