@@ -15,13 +15,13 @@ I am:
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
 - :art: discovering something useful, empowering and beautiful
-<div style="display: inline-block;width: 100%;">
+<div style="display: inline-block;width: 50%;">
 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=6&layout=compact&theme=solarized-light" />
 		</div>
-		<div style="display: inline-block">
+<!-- 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
-		</div>
+		</div> -->
 	</div>
 <!-- <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
