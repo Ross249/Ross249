@@ -14,7 +14,7 @@ I am:
 - :octocat: A web developer
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
-- :art: discovering something useful, empowering and beautiful
+- :art: Discovering something useful, empowering and beautiful
 <div style="display: inline-block;width: 50%;">
 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=6&layout=compact&theme=solarized-light" />
