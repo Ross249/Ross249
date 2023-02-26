@@ -18,8 +18,9 @@ I am:
 
 <table align="center" width="100%">
 	<tr>
-	<td align="center">
+	<td align="center"  width="100%">
 		<!--START_SECTION:waka-->
+		
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -38,8 +39,7 @@ No Activity Tracked This Week
 
  Last Updated on 26/02/2023 14:15:36 UTC
 <!--END_SECTION:waka-->
-	</td>
-	</tr>
+</td></tr>
   <tr>
     <td align="center" width="50%">
       <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=JimLuo_" />
