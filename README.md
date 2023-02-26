@@ -19,7 +19,7 @@ I am:
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
+      <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=JimLuo_" />
     </td>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
