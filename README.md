@@ -15,6 +15,28 @@ I am:
 - :video_game: Fascinated by video games 
 - :dog: Going to have a dog
 - :art: Discovering something useful, empowering and beautiful
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=6&layout=compact&theme=solarized-light" />
+          </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=solarized-light&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+---
+<!--
 <div style="display: inline-block;width: 50%;">
 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=6&layout=compact&theme=solarized-light" />
@@ -22,10 +44,10 @@ I am:
 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
 		</div> 
-<!-- 		<div>
+ 		<div>
 			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=solarized-light&hide_border=false" />
-		</div> -->
-	</div>
+		</div> 
+	</div> -->
 <!-- <a href="#">
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=ross249&cn=true" />
 </a>
