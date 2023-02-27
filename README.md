@@ -20,24 +20,26 @@ I am:
 	<tr>
 	<td valign="top"  width="50%">
 		<!--START_SECTION:waka-->
-		
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      7 mins              ██████████████░░░░░░░░░░░   57.99 % 
+TypeScript               4 mins              █████████░░░░░░░░░░░░░░░░   37.66 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              ██████████████░░░░░░░░░░░   57.99 % 
+Windows                  5 mins              ███████████░░░░░░░░░░░░░░   42.01 % 
 ```
 
 
- Last Updated on 26/02/2023 20:18:54 UTC
+ Last Updated on 27/02/2023 20:20:42 UTC
 <!--END_SECTION:waka-->
 </td>
 		<td valign="center" width="50%">
