@@ -20,6 +20,7 @@ I am:
 	<tr>
 	<td valign="top"  width="50%">
 		<!--START_SECTION:waka-->
+		
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
