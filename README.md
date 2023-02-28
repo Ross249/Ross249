@@ -16,35 +16,15 @@ I am:
 - :dog: Going to have a dog
 - :art: Discovering something useful, empowering and beautiful
 
-<table align="center" width="100%">
-	<tr>
-	<td valign="top"  width="50%">
-		<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
+---
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      7 mins              ██████████████░░░░░░░░░░░   57.99 % 
-TypeScript               4 mins              █████████░░░░░░░░░░░░░░░░   37.66 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-
-🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    7 mins              ██████████████░░░░░░░░░░░   57.99 % 
-Windows                  5 mins              ███████████░░░░░░░░░░░░░░   42.01 % 
-```
-
-
- Last Updated on 28/02/2023 20:20:40 UTC
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</td>
-		<td valign="center" width="50%">
-		</td>
-	</tr>
+
+---
+
+<table align="center" width="100%">
+	
   <tr>
     <td align="center" width="50%">
       <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=JimLuo_" />
