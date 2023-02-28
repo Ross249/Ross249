@@ -20,7 +20,7 @@ I am:
 	<tr>
 	<td valign="top"  width="50%">
 		<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,7 +39,7 @@ Windows                  5 mins              ███████████�
 ```
 
 
- Last Updated on 27/02/2023 20:20:42 UTC
+ Last Updated on 28/02/2023 20:20:40 UTC
 <!--END_SECTION:waka-->
 </td>
 		<td valign="center" width="50%">
