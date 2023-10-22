@@ -87,4 +87,4 @@ Mac                      29 mins             █░░░░░░░░░░�
   <img align="center" src="https://stats.justsong.cn/api/juejin?id=4125023360530574" />
 </a> -->
 
-![Snake animation](https://github.com/Ross249/Ross249/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Ross249/Ross249/blob/output/github-contribution-grid-snake.svg) -->
