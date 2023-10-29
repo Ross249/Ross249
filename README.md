@@ -58,7 +58,7 @@ Mac                      50 mins             █░░░░░░░░░░�
   </tr>
   <tr>
           <td align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=6&layout=compact&theme=solarized-light" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
           </td>
     <td align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=solarized-light&hide_border=false" />
