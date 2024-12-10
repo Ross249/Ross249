@@ -46,21 +46,24 @@ Mac                      46 mins             ███████████�
 <table align="center" width="100%">
 	
   <tr>
-    <td align="center" width="50%">
+<!--     <td align="center" width="50%">
       <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=JimLuo_" />
-    </td>
+    </td> -->
+	  <td align="center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
+          </td>
     <td align="center" width="50%">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ross249&show_icons=true&theme=solarized-light" />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
           <td align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ross249&langs_count=8&layout=compact&theme=solarized-light" />
           </td>
     <td align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=solarized-light&hide_border=false" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
