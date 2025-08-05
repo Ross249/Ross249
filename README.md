@@ -1,11 +1,12 @@
-
+<!--   
  <div align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ross249/count.svg" />
 <!--   
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ross249.visitor-badge&left_color=SlateGray&right_color=green&left_text=HelloVisitors) -->
   
-</div>
+</div> 
+
 
 ## Hi there :wave:
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
