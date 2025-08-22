@@ -20,23 +20,10 @@ I am:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2012%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               24 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Zed                      24 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2035%20mins-blue)
 
 
- Last Updated on 21/08/2025 20:07:44 UTC
+ Last Updated on 22/08/2025 20:07:19 UTC
 <!--END_SECTION:waka-->
 
 ---
