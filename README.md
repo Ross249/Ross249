@@ -20,23 +20,8 @@ I am:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2045%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 10 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Obsidian                 1 hr 10 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/08/2025 20:07:12 UTC
+ Last Updated on 30/08/2025 20:06:28 UTC
 <!--END_SECTION:waka-->
 
 ---
