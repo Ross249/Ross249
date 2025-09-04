@@ -20,23 +20,25 @@ I am:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               53 mins             █████████████████████░░░░   84.20 % 
+Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             ███████████████████░░░░░░   76.35 % 
+Cursor                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/09/2025 20:07:02 UTC
+ Last Updated on 04/09/2025 20:07:33 UTC
 <!--END_SECTION:waka-->
 
 ---
