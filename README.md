@@ -12,10 +12,10 @@
 <p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
 I am:
 
-- :octocat: A web developer
+- :octocat: A normal developer
 - :video_game: Fascinated by video games 
-- :dog: Going to have a dog
-- :art: Discovering something useful, empowering and beautiful
+- :dog: Going to have a dog(still dreaming)
+- :art: Discovering something useful, beautiful and empowering
 
 ---
 
