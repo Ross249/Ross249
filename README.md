@@ -20,29 +20,29 @@ I am:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 14 mins       ████████████████████░░░░░   80.73 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Astro                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               4 hrs 16 mins       ████████████████████░░░░░   81.79 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Astro                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 54 mins       ███████████████████████░░   93.43 % 
-Obsidian                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Antigravity              4 hrs 57 mins       ████████████████████████░   94.55 % 
+Obsidian                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2026 20:13:11 UTC
+ Last Updated on 04/03/2026 20:13:20 UTC
 <!--END_SECTION:waka-->
 
 
