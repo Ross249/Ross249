@@ -20,10 +20,30 @@ I am:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2052%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 58 mins       ███████████████████░░░░░░   76.93 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+
+🔥 Editors: 
+Antigravity              2 hrs 46 mins       ██████████████████░░░░░░░   72.12 % 
+VS Code                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Obsidian                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+
+💻 Operating System: 
+Mac                      3 hrs 51 mins       █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 13/03/2026 20:13:13 UTC
+ Last Updated on 14/03/2026 20:09:36 UTC
 <!--END_SECTION:waka-->
 
 
