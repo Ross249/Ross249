@@ -26,24 +26,24 @@ I am:
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ████████████████████░░░░░   81.17 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               2 hrs 14 mins       █████████████████████░░░░   85.74 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Antigravity              1 hr 46 mins        ████████████████░░░░░░░░░   63.74 % 
-VS Code                  41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Obsidian                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Antigravity              1 hr 44 mins        █████████████████░░░░░░░░   66.81 % 
+VS Code                  37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Obsidian                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 20:16:04 UTC
+ Last Updated on 17/03/2026 20:16:19 UTC
 <!--END_SECTION:waka-->
 
 
