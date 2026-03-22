@@ -9,11 +9,12 @@
 
 
 ## Hi there :wave:
-<p>Welcome to my GitHub profile,which is my open source projects' abstract.</p>
+<p>Welcome to my GitHub profile, which is my open source projects' abstract.</p>
 I am:
 
 - :octocat: A normal developer
-- :video_game: Fascinated by video games 
+- :video_game: Fascinated by video games
+- :camera: A hobbyist in street photography
 - :dog: Going to have a dog(still dreaming)
 - :art: Discovering something useful, beautiful and empowering
 
