@@ -9,14 +9,14 @@
 
 
 ## Hi there :wave:
-<p>Welcome to my GitHub profile, which is my open source projects' abstract.</p>
-I am:
+<!-- <p>Welcome to my GitHub profile, which is my open source projects' abstract.</p> -->
+I am Jim Luo, 
 
 - :octocat: A normal developer
-- :video_game: Fascinated by video games
+- :video_game: A gamer
 - :camera: A hobbyist in street photography
-- :dog: Going to have a dog(still dreaming)
-- :art: Discovering something useful, beautiful and empowering
+- :dog: Who is going to have a dog(still dreaming)
+- :art: Who is discovering something useful, beautiful and empowering
 
 ---
 
