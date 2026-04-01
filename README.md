@@ -27,25 +27,25 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       █████████████████░░░░░░░░   66.69 % 
-JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TypeScript               3 hrs 4 mins        ██████████████████░░░░░░░   73.03 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
-Cursor                   1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Antigravity              1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Claude Code              30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Obsidian                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+VS Code                  1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   37.56 % 
+Antigravity              58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Cursor                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Obsidian                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 20:18:29 UTC
+ Last Updated on 01/04/2026 20:19:11 UTC
 <!--END_SECTION:waka-->
 
 
