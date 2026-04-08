@@ -21,29 +21,30 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 mins             █████████░░░░░░░░░░░░░░░░   37.18 % 
-Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   36.83 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+TypeScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   49.27 % 
+Markdown                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  54 mins             ███████████████████░░░░░░   76.49 % 
-Obsidian                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+VS Code                  54 mins             ███████████░░░░░░░░░░░░░░   42.72 % 
+Claude Code              44 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
+Obsidian                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Antigravity              13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 20:17:51 UTC
+ Last Updated on 08/04/2026 20:18:24 UTC
 <!--END_SECTION:waka-->
 
 
