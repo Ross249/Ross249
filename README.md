@@ -27,24 +27,24 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.33 % 
-Other                    1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               2 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.41 % 
+Other                    1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Antigravity              1 hr 58 mins        ███████████░░░░░░░░░░░░░░   42.21 % 
-Claude Code              1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   41.97 % 
-Zed                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Obsidian                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Antigravity              1 hr 58 mins        ███████████░░░░░░░░░░░░░░   43.15 % 
+Claude Code              1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
+Zed                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Obsidian                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 💻 Operating System: 
-Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2026 20:25:39 UTC
+ Last Updated on 14/04/2026 20:25:15 UTC
 <!--END_SECTION:waka-->
 
 
