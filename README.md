@@ -14,7 +14,7 @@ I am Jim Luo,
 
 - :octocat: A normal developer
 - :video_game: A gamer
-- :camera: A hobbyist in street photography
+- :camera: A hobbyist in photography
 - :dog: Who is going to have a dog(still dreaming)
 - :art: Who is discovering something useful, beautiful and empowering
 
