@@ -21,8 +21,28 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/04/2026 20:14:36 UTC
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 54 mins        ██████████████████░░░░░░░   72.24 % 
+Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+🔥 Editors: 
+Antigravity              1 hr 24 mins        █████████████░░░░░░░░░░░░   53.43 % 
+Claude Code              37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Zed                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Obsidian                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+
+💻 Operating System: 
+Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/04/2026 20:15:03 UTC
 <!--END_SECTION:waka-->
 
 
