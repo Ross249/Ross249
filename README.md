@@ -21,30 +21,31 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C053%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ███████████████████░░░░░░   74.34 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               2 hrs 2 mins        ███████████████████░░░░░░   74.44 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Antigravity              1 hr 28 mins        ████████████████░░░░░░░░░   63.24 % 
-Claude Code              33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Zed                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Antigravity              1 hr 20 mins        ████████████░░░░░░░░░░░░░   48.98 % 
+Claude Code              50 mins             ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Zed                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Unknown Editor           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 20:23:26 UTC
+ Last Updated on 22/04/2026 20:25:14 UTC
 <!--END_SECTION:waka-->
 
 
