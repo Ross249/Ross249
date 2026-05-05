@@ -23,8 +23,26 @@ I am Jim Luo,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2053%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/05/2026 20:35:29 UTC
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 16 mins        ████████████████░░░░░░░░░   62.17 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+CSS                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+
+🔥 Editors: 
+Zed                      1 hr 47 mins        ██████████████████████░░░   87.69 % 
+Antigravity              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+
+💻 Operating System: 
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/05/2026 20:30:40 UTC
 <!--END_SECTION:waka-->
 
 
