@@ -27,22 +27,22 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   48.42 % 
-JavaScript               48 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JavaScript               48 mins             ██████████████░░░░░░░░░░░   57.33 % 
+TypeScript               27 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Zed                      1 hr 54 mins        ██████████████████████░░░   88.36 % 
-Antigravity              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Zed                      1 hr 19 mins        ███████████████████████░░   93.55 % 
+Antigravity              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 20:32:33 UTC
+ Last Updated on 08/05/2026 20:28:15 UTC
 <!--END_SECTION:waka-->
 
 
