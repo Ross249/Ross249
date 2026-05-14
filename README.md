@@ -21,29 +21,29 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2015%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 47 mins        ████████████░░░░░░░░░░░░░   48.05 % 
-Other                    1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               4 hrs 48 mins       ████████████████░░░░░░░░░   63.98 % 
+Other                    1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Image (svg)              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 16 mins       ██████████████████████░░░   87.43 % 
-Zed                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Obsidian                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Antigravity              7 hrs 2 mins        ███████████████████████░░   93.74 % 
+Zed                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Obsidian                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Mac                      3 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 20:39:45 UTC
+ Last Updated on 14/05/2026 20:35:56 UTC
 <!--END_SECTION:waka-->
 
 
