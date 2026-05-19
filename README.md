@@ -21,6 +21,8 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2020%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -40,7 +42,7 @@ Mac                      11 hrs 2 mins       ███████████�
 ```
 
 
- Last Updated on 18/05/2026 20:37:14 UTC
+ Last Updated on 19/05/2026 20:41:00 UTC
 <!--END_SECTION:waka-->
 
 
