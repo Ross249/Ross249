@@ -27,22 +27,22 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 13 mins       █████████████████████░░░░   83.64 % 
-Other                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JavaScript               7 hrs 41 mins       ████████████████████░░░░░   81.16 % 
+Other                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Antigravity              8 hrs 39 mins       ████████████████████░░░░░   78.48 % 
-VS Code                  2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Antigravity              7 hrs 26 mins       ████████████████████░░░░░   78.58 % 
+VS Code                  2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
 
 💻 Operating System: 
-Mac                      11 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2026 20:41:00 UTC
+ Last Updated on 20/05/2026 20:49:01 UTC
 <!--END_SECTION:waka-->
 
 
