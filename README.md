@@ -21,30 +21,30 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.30 % 
-TypeScript               2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.03 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+TypeScript               2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.81 % 
+JavaScript               1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   37.32 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       ████████████████████████░   96.46 % 
-Obsidian                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Antigravityide           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+VS Code                  4 hrs 13 mins       ████████████████████████░   95.97 % 
+Obsidian                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Antigravityide           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/05/2026 20:53:59 UTC
+ Last Updated on 30/05/2026 20:27:50 UTC
 <!--END_SECTION:waka-->
 
 
