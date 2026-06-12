@@ -27,20 +27,19 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 mins             ███████████████████░░░░░░   77.52 % 
-JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Markdown                 10 mins             █████████████████████░░░░   84.38 % 
+JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 
 🔥 Editors: 
-Obsidian                 10 mins             ███████████████████░░░░░░   77.52 % 
-VS Code                  3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Obsidian                 10 mins             █████████████████████░░░░   84.38 % 
+VS Code                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/2026 20:55:41 UTC
+ Last Updated on 12/06/2026 20:51:13 UTC
 <!--END_SECTION:waka-->
 
 
