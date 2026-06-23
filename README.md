@@ -21,23 +21,26 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C095%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 3 mins         ██████████████████████░░░   86.94 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 21:05:54 UTC
+ Last Updated on 23/06/2026 20:50:19 UTC
 <!--END_SECTION:waka-->
 
 
