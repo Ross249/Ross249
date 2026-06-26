@@ -21,26 +21,27 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       ██████████████████████░░░   89.67 % 
-CSS                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               6 hrs 58 mins       ███████████████████████░░   90.24 % 
+CSS                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 39 mins       █████████████████████████   99.10 % 
+Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 20:45:17 UTC
+ Last Updated on 26/06/2026 20:39:48 UTC
 <!--END_SECTION:waka-->
 
 
