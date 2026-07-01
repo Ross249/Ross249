@@ -27,22 +27,21 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 55 mins       ██████████████████░░░░░░░   72.38 % 
-JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+TypeScript               3 hrs 25 mins       █████████████████░░░░░░░░   66.38 % 
+JSON                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        ██████████████████████░░░   86.60 % 
-Claude Code              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Obsidian                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VS Code                  4 hrs 3 mins        ████████████████████░░░░░   78.74 % 
+Claude Code              55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Obsidian                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 20:44:25 UTC
+ Last Updated on 01/07/2026 20:40:16 UTC
 <!--END_SECTION:waka-->
 
 
