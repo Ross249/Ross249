@@ -21,57 +21,8 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2042%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 59 mins        ████████████░░░░░░░░░░░░░   49.38 % 
-Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 49 mins       ██████████████████░░░░░░░   70.16 % 
-Claude Code              54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Obsidian                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-
-💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 39 mins (91.14%)
-
-✍️ 12,461 lines written by AI, 29 lines written by hand (99.77% AI-written)
-
-🔤 124,834,596 Input Tokens, 648,734 Output Tokens
-
-💵 $385.17 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 57 AI Prompts
-
-Fable                    7,456 lines         ████████████████░░░░░░░░░   62.20 % 
-Claude                   4,531 lines         █████████░░░░░░░░░░░░░░░░   37.80 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
-```
-
-
- Last Updated on 27/07/2026 21:15:38 UTC
+ Last Updated on 28/07/2026 21:12:01 UTC
 <!--END_SECTION:waka-->
 
 
