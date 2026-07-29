@@ -21,8 +21,57 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%206%20mins-blue?style=flat)
 
- Last Updated on 28/07/2026 21:12:01 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2030%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Swift                    7 hrs 15 mins       ██████████████░░░░░░░░░░░   55.57 % 
+Markdown                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+TypeScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+
+🔥 Editors: 
+Claude Code              9 hrs 53 mins       ███████████████████░░░░░░   75.79 % 
+VS Code                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Zed                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Obsidian                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+
+💻 Operating System: 
+Mac                      13 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 36 mins (96.64%)
+
+✍️ 36,214 lines written by AI, 42 lines written by hand (99.88% AI-written)
+
+🔤 565,865,873 Input Tokens, 2,712,639 Output Tokens
+
+💵 $1358.25 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 144 AI Prompts
+
+Claude                   14,545 lines        █████████████░░░░░░░░░░░░   50.21 % 
+Opus                     7,816 lines         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Fable                    6,605 lines         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 839 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 01:56:02 UTC
 <!--END_SECTION:waka-->
 
 
