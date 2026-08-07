@@ -12,11 +12,11 @@
 <!-- <p>Welcome to my GitHub profile, which is my open source projects' abstract.</p> -->
 I am Jim Luo, 
 
-- :octocat: A normal developer
-- :video_game: A gamer
 - :camera: A hobbyist in photography
-- :dog: Who is going to have a dog(still dreaming)
+- :video_game: A gamer
 - :art: Who is discovering something useful, beautiful and empowering
+- :dog: Who is going to have a dog(still dreaming)
+- :octocat: A normal developer
 
 ---
 
