@@ -21,55 +21,55 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C259%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2030%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Swift                    33 hrs 59 mins      ██████████████████████░░░   87.97 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Swift                    38 hrs 12 mins      ██████████████████████░░░   88.38 % 
+Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Codex Vscode             33 hrs 32 mins      ██████████████████████░░░   86.84 % 
-Zed                      4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Obsidian                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Codex Vscode             38 hrs 40 mins      ██████████████████████░░░   89.44 % 
+Zed                      4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Antigravity IDE          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Obsidian                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      38 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 5 mins (96.01%)
+⏱ AI Coding Time: 41 hrs 39 mins (96.37%)
 
-✍️ 42,906 lines written by AI, 226 lines written by hand (99.48% AI-written)
+✍️ 43,194 lines written by AI, 226 lines written by hand (99.48% AI-written)
 
-🔤 58,807,701 Input Tokens, 5,212,345 Output Tokens
+🔤 51,074,423 Input Tokens, 4,540,163 Output Tokens
 
-💵 $1418.70 Estimated AI Cost This Week
+💵 $1446.54 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 99 AI Prompts
+🧠 22 AI Sessions, 119 AI Prompts
 
-GPT                      48,457 lines        █████████████████████████   99.93 % 
+GPT                      49,254 lines        █████████████████████████   99.93 % 
 Codex-Vscode             34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.48% of written lines came from AI
-📚 Verbose Prompter — average 2,357 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,373 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 20:28:50 UTC
+ Last Updated on 19/08/2026 20:33:09 UTC
 <!--END_SECTION:waka-->
 
 
