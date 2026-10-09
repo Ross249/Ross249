@@ -29,46 +29,44 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.69 % 
-Python                   1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-Markdown                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-CSS                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Other                    1 hr 15 mins        ██████████████░░░░░░░░░░░   56.40 % 
+Python                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 2 mins        █████████████████░░░░░░░░   68.44 % 
-Zed                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Codex Vscode             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Obsidian                 1 hr 21 mins        ███████████████░░░░░░░░░░   61.12 % 
+Zed                      50 mins             █████████░░░░░░░░░░░░░░░░   37.63 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      4 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (88.53%)
+⏱ AI Coding Time: 1 hr 44 mins (78.48%)
 
-✍️ 2,577 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 519 lines written by AI, 1 lines written by hand (99.81% AI-written)
 
-🔤 8,237,824 Input Tokens, 1,773,185 Output Tokens
+🔤 7,175,193 Input Tokens, 1,509,010 Output Tokens
 
-💵 $711.46 Estimated AI Cost This Week
+💵 $626.25 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 7 AI Prompts
+🧠 10 AI Sessions, 0 AI Prompts
 
-GPT                      2,043 lines         ███████████████████████░░   92.61 % 
-Codex-Vscode             163 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+GPT                      623 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 429 characters per prompt
+🤖 AI-Driven — 99.81% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 00:05:01 UTC
+ Last Updated on 09/10/2026 00:12:50 UTC
 <!--END_SECTION:waka-->
 
 
