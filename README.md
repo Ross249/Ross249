@@ -29,46 +29,46 @@ I am Jim Luo,
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-Swift                    3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Python                   2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.53 % 
+Swift                    3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Python                   2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Zed                      6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
-Codex Vscode             5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
-Obsidian                 2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Codex Vscode             5 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+Zed                      5 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
+Obsidian                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 
 💻 Operating System: 
-Mac                      15 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 49 mins (97.87%)
+⏱ AI Coding Time: 13 hrs 56 mins (100.0%)
 
-✍️ 4,198 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 4,198 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 45,918,000 Input Tokens, 9,297,327 Output Tokens
+🔤 40,524,240 Input Tokens, 7,684,265 Output Tokens
 
-💵 $4172.14 Estimated AI Cost This Week
+💵 $4119.05 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 133 AI Prompts
+🧠 71 AI Sessions, 133 AI Prompts
 
 GPT                      4,020 lines         █████████████████████████   98.12 % 
 Codex-Vscode             77 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 10,899 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 22:05:05 UTC
+ Last Updated on 18/10/2026 22:18:45 UTC
 <!--END_SECTION:waka-->
 
 
