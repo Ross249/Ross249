@@ -21,12 +21,55 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C396%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C398%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%205%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Swift                    7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Other                    4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Markdown                 2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+JavaScript               2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+
+🔥 Editors: 
+Codex Vscode             14 hrs 58 mins      ██████████████████░░░░░░░   70.00 % 
+Zed                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+VS Code                  2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Obsidian                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+
+💻 Operating System: 
+Mac                      21 hrs 23 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 hrs 1 min (98.25%)
+
+✍️ 10,632 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 39,686,430 Input Tokens, 6,440,898 Output Tokens
+
+💵 $3633.87 Estimated AI Cost This Week
+
+🧠 83 AI Sessions, 134 AI Prompts
+
+GPT                      10,684 lines        █████████████████████████   99.28 % 
+Codex-Vscode             77 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 4,451 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
 
 
- Last Updated on 20/10/2026 23:03:47 UTC
+ Last Updated on 21/10/2026 23:07:17 UTC
 <!--END_SECTION:waka-->
 
 
