@@ -21,55 +21,12 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C410%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-370%20hrs%2027%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Swift                    6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Markdown                 4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-JavaScript               4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-TypeScript               3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Other                    2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-
-🔥 Editors: 
-Codex Vscode             18 hrs 24 mins      █████████████████░░░░░░░░   68.54 % 
-VS Code                  6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Zed                      1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Obsidian                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-💻 Operating System: 
-Mac                      26 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 26 hrs 27 mins (98.51%)
-
-✍️ 19,010 lines written by AI, 45 lines written by hand (99.76% AI-written)
-
-🔤 39,780,446 Input Tokens, 6,498,728 Output Tokens
-
-💵 $3783.96 Estimated AI Cost This Week
-
-🧠 93 AI Sessions, 152 AI Prompts
-
-GPT                      19,370 lines        █████████████████████████   99.60 % 
-Codex-Vscode             77 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📚 Verbose Prompter — average 1,575 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-375%20hrs%2018%20mins-blue?style=flat)
 
 
- Last Updated on 23/10/2026 22:58:16 UTC
+ Last Updated on 24/10/2026 22:19:28 UTC
 <!--END_SECTION:waka-->
 
 
