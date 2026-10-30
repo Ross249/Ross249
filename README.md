@@ -21,56 +21,12 @@ I am Jim Luo,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C442%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-396%20hrs%2057%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Swift                    15 hrs 24 mins      ████████████░░░░░░░░░░░░░   46.68 % 
-Markdown                 4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-TypeScript               4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Other                    3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-
-🔥 Editors: 
-Codex Vscode             13 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
-VS Code                  12 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.76 % 
-Obsidian                 7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Zed                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
-💻 Operating System: 
-Mac                      33 hrs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 49 mins (99.47%)
-
-✍️ 7,952 lines written by AI, 43 lines written by hand (99.46% AI-written)
-
-🔤 20,458,221 Input Tokens, 2,532,339 Output Tokens
-
-💵 $1342.28 Estimated AI Cost This Week
-
-🧠 108 AI Sessions, 162 AI Prompts
-
-GPT                      8,255 lines         █████████████████████████   99.92 % 
-Codex-Vscode             7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📚 Verbose Prompter — average 4,052 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.55% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-409%20hrs%208%20mins-blue?style=flat)
 
 
- Last Updated on 29/10/2026 23:51:41 UTC
+ Last Updated on 30/10/2026 23:31:14 UTC
 <!--END_SECTION:waka-->
 
 
